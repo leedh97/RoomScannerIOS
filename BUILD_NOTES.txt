@@ -1,0 +1,1 @@
+Build validation note: this environment does not include Xcode/iOS SDK, so the project could not be compiled here. Open RoomScanner.xcodeproj in Xcode and build to a physical LiDAR-equipped iPhone Pro. See README.md for setup and known prototype limitations.
